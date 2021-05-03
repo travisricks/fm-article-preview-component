@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub Code](https://github.com/travisricks/fm-article-preview-component)
+- Live Site URL: [Live Site on Netlify](https://angry-wiles-34a354.netlify.app/)
 
 ## My process
 

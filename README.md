@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![app screenshot](./screenshot.jpg)
+![app screenshot](./screenshot.png)
 
 ### Links
 
